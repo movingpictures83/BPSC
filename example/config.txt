@@ -1,0 +1,2 @@
+Prefix plugins/BPSC/example/
+Plugin BPSC inputfile parameters.txt outputfile none

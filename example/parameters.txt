@@ -1,0 +1,4 @@
+alpha	0.6
+beta	1.5
+lam1	20
+lam2	0.5
